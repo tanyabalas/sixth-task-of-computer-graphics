@@ -1,0 +1,1 @@
+# sixth-task-of-computer-graphics
